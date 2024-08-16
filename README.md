@@ -1,3 +1,4 @@
 # Informatik-B
 
-## Informatik Tello
+## 1. Forløb 
+Informatik Tello projekt
